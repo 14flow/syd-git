@@ -1,7 +1,9 @@
-# Answers of <students-firstname> <students-lastname> <github-username>
+# Answers of Florent Gulas 14flow
 
 ## Basics
 ### Task 1
+
+Les valeurs ont été changées (sont visibles dans les unstage fils) mais n'ont pas été commit ni push
 
 ### Task 2
 
