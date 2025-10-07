@@ -18,6 +18,8 @@ Nous avons maintenant deux unstage files : celui où l'on rempli les réponses d
 
 ### Task 4
 
+Quand on revient au commit « Initial commit », le projet revient à son tout premier état : seuls les fichiers du début sont visibles, et on se retrouve en mode "détaché", c'est-à-dire hors de notre branche principale. En revenant au dernier commit (par exemple avec git checkout main), on retrouve l’état le plus récent du projet, avec tous les fichiers et modifications, et on revient sur la branche principale.
+
 ### Task 5
 
 ### Task 6
